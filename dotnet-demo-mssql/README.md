@@ -1,7 +1,5 @@
 ### Issue
 ```
-error reading file /tmp/dd_process_info_7e5e3d88-74a2-114f-8d50-27d39d239abf
-ERROR: ld.so: object '/opt/datadog/apm/inject/launcher.preload.so' from /etc/ld.so.preload cannot be preloaded (cannot open shared object file): ignored.
 Microsoft (R) Build Engine version 17.0.1+b177f8fa7 for .NET
 Copyright (C) Microsoft Corporation. All rights reserved.
 
