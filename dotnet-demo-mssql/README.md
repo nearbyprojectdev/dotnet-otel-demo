@@ -5,7 +5,6 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 
   Determining projects to restore...
   All projects are up-to-date for restore.
-/usr/lib/dotnet/sdk/6.0.127/Roslyn/Microsoft.CSharp.Core.targets(75,5): error : ERROR: ld.so: object '/opt/datadog/apm/inject/launcher.preload.so' from /etc/ld.so.preload cannot be preloaded (cannot open shared object file): ignored. [/home/keval/codebase/nearbyprojectdev/dotnet-demo-mssql/Demo-WebApplication/Mw-WebApplication.csproj]
 /usr/lib/dotnet/sdk/6.0.127/Roslyn/Microsoft.CSharp.Core.targets(75,5): error : Error: [/home/keval/codebase/nearbyprojectdev/dotnet-demo-mssql/Demo-WebApplication/Mw-WebApplication.csproj]
 /usr/lib/dotnet/sdk/6.0.127/Roslyn/Microsoft.CSharp.Core.targets(75,5): error :   An assembly specified in the application dependencies manifest (OpenTelemetry.AutoInstrumentation.AdditionalDeps.deps.json) was not found: [/home/keval/codebase/nearbyprojectdev/dotnet-demo-mssql/Demo-WebApplication/Mw-WebApplication.csproj]
 /usr/lib/dotnet/sdk/6.0.127/Roslyn/Microsoft.CSharp.Core.targets(75,5): error :     package: 'Microsoft.Extensions.Configuration', version: '8.0.0' [/home/keval/codebase/nearbyprojectdev/dotnet-demo-mssql/Demo-WebApplication/Mw-WebApplication.csproj]
@@ -13,7 +12,6 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 
 Build FAILED.
 
-/usr/lib/dotnet/sdk/6.0.127/Roslyn/Microsoft.CSharp.Core.targets(75,5): error : ERROR: ld.so: object '/opt/datadog/apm/inject/launcher.preload.so' from /etc/ld.so.preload cannot be preloaded (cannot open shared object file): ignored. [/home/keval/codebase/nearbyprojectdev/dotnet-demo-mssql/Demo-WebApplication/Mw-WebApplication.csproj]
 /usr/lib/dotnet/sdk/6.0.127/Roslyn/Microsoft.CSharp.Core.targets(75,5): error : Error: [/home/keval/codebase/nearbyprojectdev/dotnet-demo-mssql/Demo-WebApplication/Mw-WebApplication.csproj]
 /usr/lib/dotnet/sdk/6.0.127/Roslyn/Microsoft.CSharp.Core.targets(75,5): error :   An assembly specified in the application dependencies manifest (OpenTelemetry.AutoInstrumentation.AdditionalDeps.deps.json) was not found: [/home/keval/codebase/nearbyprojectdev/dotnet-demo-mssql/Demo-WebApplication/Mw-WebApplication.csproj]
 /usr/lib/dotnet/sdk/6.0.127/Roslyn/Microsoft.CSharp.Core.targets(75,5): error :     package: 'Microsoft.Extensions.Configuration', version: '8.0.0' [/home/keval/codebase/nearbyprojectdev/dotnet-demo-mssql/Demo-WebApplication/Mw-WebApplication.csproj]
